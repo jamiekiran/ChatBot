@@ -1,0 +1,124 @@
+find a cafe at $region location
+find a cafe in $region region
+find a eatery in $region area
+find a eatery in $region location
+find a eatery in $region region
+find a eatery in $region region
+find a food court in $region area
+find a food court in $region region
+find a hotel in $region location
+find a hotel in $region region
+find a restaurant at $region location
+find a restaurant in $region region
+I want to book a cafe
+I want to book a restaurant
+I want to eat $cuisine in a $type cafe in $region area
+I want to eat $cuisine in a $type cafe in $region location
+I want to eat $cuisine in a $type cafe in $region part of the city
+I want to eat $cuisine in a $type cafe in $region region 
+I want to eat $cuisine in a $type restaurant in $region area
+I want to eat $cuisine in a $type restaurant in $region location
+I want to eat $cuisine in a $type restaurant in $region part of the city
+I want to eat $cuisine in a $type restaurant in $region region 
+I want to eat $cuisine in a cafe
+I want to eat $cuisine in a cafe in $region location
+I want to eat $cuisine in a cafe in $region part of the city
+I want to eat $cuisine in a restaurant
+I want to eat $cuisine in a restaurant in $region location
+I want to eat $cuisine in a restaurant in $region part of the city
+I want to search a cafe
+I want to search a eatery
+I want to search a food court
+I want to search a restaurant
+identify a cafe in $region part of the city
+identify a cafe with $cuisine cuisine at $region region
+identify a cafe with $cuisine cuisine at $region region in $type budget
+identify a cafe with $cuisine cuisine at $region region in $type cheap
+identify a cafe with $cuisine cuisine at $region region in $type expensive
+identify a cafe with $cuisine cuisine at $region region in $type type
+identify a restaurant in $region part of the city
+identify a restaurant with $cuisine cuisine at $region region
+identify a restaurant with $cuisine cuisine at $region region in $type budget
+identify a restaurant with $cuisine cuisine at $region region in $type cheap
+identify a restaurant with $cuisine cuisine at $region region in $type expensive
+identify a restaurant with $cuisine cuisine at $region region in $type type
+identify a table at a $cuisine cafe in $region region
+identify a table at a $cuisine restaurant in $region region
+identify a table at a $type cafe $region region that serves $cuisine
+identify a table at a $type cafe at $region region
+identify a table at a $type cafe with $cuisine cuisine at $region location
+identify a table at a $type cafe with $cuisine cuisine at $region part of the city
+identify a table at a $type cafe with $cuisine cuisine at $region region 
+identify a table at a $type restaurant $region region that serves $cuisine
+identify a table at a $type restaurant at $region region
+identify a table at a $type restaurant with $cuisine cuisine at $region location
+identify a table at a $type restaurant with $cuisine cuisine at $region part of the city
+identify a table at a $type restaurant with $cuisine cuisine at $region region 
+identify a table at a cafe
+identify a table at a cafe in $region location
+identify a table at a cafe with $cuisine cuisine
+identify a table at a restaurant
+identify a table at a restaurant in $region location
+identify a table at a restaurant with $cuisine cuisine
+identify a table at cafe
+identify a table at restaurant
+search a cafe
+search a cafe in $region area
+search a cafe in $region location
+search a cafe with $cuisine cuisine
+search a cafe with $cuisine cuisine at $region region
+search a cafe with $cuisine cuisine at $region region in $type budget
+search a cafe with $cuisine cuisine at $region region in $type cheap
+search a cafe with $cuisine cuisine at $region region in $type expensive
+search a cafe with $cuisine cuisine at $region region in $type type
+search a eatery
+search a eatery
+search a eatery at $region region
+search a eatery at $region region
+search a eatery in $region location
+search a eatery in $region location
+search a eatery with $cuisine cuisine
+search a eatery with $cuisine cuisine
+search a eatery with $cuisine cuisine at $region region
+search a eatery with $cuisine cuisine at $region region
+search a eatery with $cuisine cuisine at $region region in $type budget
+search a eatery with $cuisine cuisine at $region region in $type budget
+search a eatery with $cuisine cuisine at $region region in $type cheap
+search a eatery with $cuisine cuisine at $region region in $type cheap
+search a eatery with $cuisine cuisine at $region region in $type expensive
+search a eatery with $cuisine cuisine at $region region in $type expensive
+search a eatery with $cuisine cuisine at $region region in $type type
+search a eatery with $cuisine cuisine at $region region in $type type
+search a food court
+search a food court at $region region
+search a food court in $region location
+search a food court with $cuisine cuisine
+search a food court with $cuisine cuisine at $region region
+search a food court with $cuisine cuisine at $region region in $type budget
+search a food court with $cuisine cuisine at $region region in $type cheap
+search a food court with $cuisine cuisine at $region region in $type expensive
+search a food court with $cuisine cuisine at $region region in $type type
+search a hotel
+search a hotel at $region region
+search a hotel in $region location
+search a hotel with $cuisine cuisine
+search a hotel with $cuisine cuisine at $region region
+search a hotel with $cuisine cuisine at $region region in $type budget
+search a hotel with $cuisine cuisine at $region region in $type cheap
+search a hotel with $cuisine cuisine at $region region in $type expensive
+search a hotel with $cuisine cuisine at $region region in $type type
+search a restaurant
+search a restaurant in $region area
+search a restaurant in $region location
+search a restaurant with $cuisine cuisine
+search a restaurant with $cuisine cuisine at $region region
+search a restaurant with $cuisine cuisine at $region region in $type budget
+search a restaurant with $cuisine cuisine at $region region in $type cheap
+search a restaurant with $cuisine cuisine at $region region in $type expensive
+search a restaurant with $cuisine cuisine at $region region in $type type
+search cafe
+search eatery
+search eatery
+search food court
+search hotel
+search restaurant
